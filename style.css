@@ -1,0 +1,42 @@
+body{
+   
+    margin: 0px;
+    /* padding: 0; */
+    box-sizing: border-box;
+    height: 100vw;
+    width: 100%;
+}
+.container-fluid{
+    padding-left: 25px;
+}
+.carousel-inner img {
+    width: 100%;
+  }
+ .list-group-item{
+    font-size: 10px;
+    color: black;
+ }
+.list-group-item:hover{
+    background-color: black;
+    color: white;
+} 
+.img-fluid{
+    background-attachment: fixed;
+    /* background-size: cover; */
+    width: 100%;
+    height: 150px;
+    
+}
+.products{
+    display: flex;
+}
+.one{
+    width: 200px;
+    height: 50px;
+    background-color: aqua;
+
+}
+.img-fluid{
+    background-attachment: fixed;
+}
+
